@@ -1,0 +1,3 @@
+# Python knowledge and stuff
+
+things, stuff, foo & bar I learnt. I didn't learn English tho...
